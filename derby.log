@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Oct 23 09:51:43 MDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0175-5628-9a43-000019cdf0b0 
+on database directory memory:C:\Users\matth\Desktop\bootcamp\projects\codebreaker-service\3419e668-b17f-4fe5-a274-b5d7235e00de with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/matth/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.8+10-LTS
+user.dir=C:\Users\matth\Desktop\bootcamp\projects\codebreaker-service
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
